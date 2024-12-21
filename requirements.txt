@@ -1,12 +1,16 @@
-# Interface graphique
-tkinter
+# Interface graphique améliorée
+pillow==10.2.0
+ttkthemes==3.2.2
 
-# Gestion des URL et navigateur web
-webbrowser
+# Requêtes HTTP
+requests==2.31.0
 
-# Dépendances système
+# Version Python requise
 python>=3.7
 
+
+
+# Windows : python -m pip install Pillow ttkthemes requests
 # Note: tkinter est généralement inclus avec Python, mais sur Linux 
 # il pourrait être nécessaire de l'installer séparément avec:
 # sudo apt-get install python3-tk (Ubuntu/Debian)
