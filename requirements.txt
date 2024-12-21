@@ -1,0 +1,14 @@
+# Interface graphique
+tkinter
+
+# Gestion des URL et navigateur web
+webbrowser
+
+# Dépendances système
+python>=3.7
+
+# Note: tkinter est généralement inclus avec Python, mais sur Linux 
+# il pourrait être nécessaire de l'installer séparément avec:
+# sudo apt-get install python3-tk (Ubuntu/Debian)
+# sudo dnf install python3-tkinter (Fedora)
+# sudo pacman -S tk (Arch Linux)
